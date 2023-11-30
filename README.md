@@ -1,1 +1,1 @@
-# tutorialsninja-automation-tests
+# Tutorialsninja-Automation-Tests
